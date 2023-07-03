@@ -1,10 +1,10 @@
 header {
-    background-color: #ff00bf;
-    color: white;
+    background-color: #e202aa;
+    color: rgb(248, 124, 232);
 }
 .cabecalho {
-    background-color: #f51e54;
-    color: rgb(243, 109, 198);
+    background-color: #f0134a;
+    color: rgb(248, 124, 232);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -24,7 +24,7 @@ header {
 }
 .escola{
     background-image: linear-gradient(#f51e54,#ff0095);
-    color:rgb(255, 254, 254);
+    color:rgb(248, 124, 232);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,6 +45,7 @@ body {
 .estudante-icone{
     width: 24px;
     padding: 4px 8px;
+
 }
 .estudante-div{
     text-align: center;
@@ -59,7 +60,7 @@ body {
     padding: 24px 0;
 }
 .rodape{
-    background-color: rgb(233, 102, 189);
+    background-color: rgb(248, 124, 232);
     text-align: center;
 }
 
